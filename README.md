@@ -11,3 +11,5 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/budget-tracker/privacy/` — プライバシーポリシー
 - `/apps/gaika-pocket/` — 「外貨ポケット」サポート
 - `/apps/gaika-pocket/privacy/` — プライバシーポリシー
+- `/apps/function-matching/` — 「関数マッチング」サポート
+- `/apps/function-matching/privacy/` — プライバシーポリシー
