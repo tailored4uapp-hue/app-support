@@ -13,3 +13,5 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/gaika-pocket/privacy/` — プライバシーポリシー
 - `/apps/function-matching/` — 「関数マッチング」サポート
 - `/apps/function-matching/privacy/` — プライバシーポリシー
+- `/apps/matching-shortcut-key-mac/` — 「short cutマッチング（⌘）」サポート
+- `/apps/matching-shortcut-key-mac/privacy/` — プライバシーポリシー
