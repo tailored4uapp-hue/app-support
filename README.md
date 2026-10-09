@@ -15,3 +15,5 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/function-matching/privacy/` — プライバシーポリシー
 - `/apps/matching-shortcut-key-mac/` — 「short cutマッチング（⌘）」サポート
 - `/apps/matching-shortcut-key-mac/privacy/` — プライバシーポリシー
+- `/apps/matching-git/` — 「Git マッチング」サポート
+- `/apps/matching-git/privacy/` — プライバシーポリシー
