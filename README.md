@@ -17,3 +17,5 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/matching-shortcut-key-mac/privacy/` — プライバシーポリシー
 - `/apps/matching-git/` — 「Git マッチング」サポート
 - `/apps/matching-git/privacy/` — プライバシーポリシー
+- `/apps/countdown-widget/` — 「ノコリ - カウントダウン ウィジェット」サポート
+- `/apps/countdown-widget/privacy/` — プライバシーポリシー
