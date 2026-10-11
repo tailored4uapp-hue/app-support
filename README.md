@@ -19,3 +19,5 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/matching-git/privacy/` — プライバシーポリシー
 - `/apps/countdown-widget/` — 「ノコリ - カウントダウン ウィジェット」サポート
 - `/apps/countdown-widget/privacy/` — プライバシーポリシー
+- `/apps/otokogi-trip-log/` — 「漢気旅ログ」サポート
+- `/apps/otokogi-trip-log/privacy/` — プライバシーポリシー
