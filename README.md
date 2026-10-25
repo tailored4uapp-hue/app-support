@@ -24,3 +24,4 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/daruma-countdown/` — 「Daruma Countdown」サポート
 - `/apps/daruma-countdown/privacy/` — プライバシーポリシー
 - `/apps/yorimichi/` — 「ヨリミチ」サポート（英語版は `/apps/yorimichi/en/`）
+- `/apps/yorimichi/privacy/` — プライバシーポリシー（英語版は `/apps/yorimichi/en/privacy/`）
