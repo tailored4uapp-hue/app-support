@@ -23,3 +23,4 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/otokogi-trip-log/privacy/` — プライバシーポリシー
 - `/apps/daruma-countdown/` — 「Daruma Countdown」サポート
 - `/apps/daruma-countdown/privacy/` — プライバシーポリシー
+- `/apps/yorimichi/` — 「ヨリミチ」サポート（英語版は `/apps/yorimichi/en/`）
