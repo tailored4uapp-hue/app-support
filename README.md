@@ -27,3 +27,4 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/yorimichi/privacy/` — プライバシーポリシー（英語版は `/apps/yorimichi/en/privacy/`）
 - `/apps/atmos-house/` — 「Atmos House」サポート
 - `/apps/atmos-house/privacy/` — プライバシーポリシー
+- `/apps/atmos-house/terms/` — 利用規約
