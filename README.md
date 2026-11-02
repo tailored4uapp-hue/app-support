@@ -23,6 +23,8 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/otokogi-trip-log/privacy/` — プライバシーポリシー
 - `/apps/daruma-countdown/` — 「Daruma Countdown」サポート
 - `/apps/daruma-countdown/privacy/` — プライバシーポリシー
+- `/apps/pause-cart/` — 「ちょいまち」サポート（英語版は `/apps/pause-cart/en/`）
+- `/apps/pause-cart/privacy/` — プライバシーポリシー（英語版は `/apps/pause-cart/en/privacy/`）
 - `/apps/yorimichi/` — 「ヨリミチ」サポート（英語版は `/apps/yorimichi/en/`）
 - `/apps/yorimichi/privacy/` — プライバシーポリシー（英語版は `/apps/yorimichi/en/privacy/`）
 - `/apps/atmos-house/` — 「Atmos House」サポート
