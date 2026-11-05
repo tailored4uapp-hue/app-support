@@ -27,6 +27,8 @@ GitHub Pagesで公開する静的サイトとして構成しています。
 - `/apps/pause-cart/privacy/` — プライバシーポリシー（英語版は `/apps/pause-cart/en/privacy/`）
 - `/apps/yorimichi/` — 「ヨリミチ」サポート（英語版は `/apps/yorimichi/en/`）
 - `/apps/yorimichi/privacy/` — プライバシーポリシー（英語版は `/apps/yorimichi/en/privacy/`）
+- `/apps/kanae-masu/` — 「叶えマス - 人生でやりたい100のこと」サポート（英語版は `/apps/kanae-masu/en/`）
+- `/apps/kanae-masu/privacy/` — プライバシーポリシー（英語版は `/apps/kanae-masu/en/privacy/`）
 - `/apps/atmos-house/` — 「Atmos House」サポート
 - `/apps/atmos-house/privacy/` — プライバシーポリシー
 - `/apps/atmos-house/terms/` — 利用規約
